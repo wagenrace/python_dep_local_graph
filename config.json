@@ -1,0 +1,6 @@
+{
+  "neo4j_import_loc": "D:\\neo4j_db\\relate-data\\dbmss\\dbms-ce95a086-9ad0-415b-8163-34f1b04b3f1d\\import",
+  "port": "7687",
+  "user": "neo4j",
+  "pswd": "password"
+}
